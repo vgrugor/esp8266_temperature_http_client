@@ -1,4 +1,5 @@
 #include <Arduino.h>
+
 #include "App/Facades/WiFi/WiFiConnectionFacade.h"
 #include "env.h"
 #include "App/Facades/TaskScheduler/TaskSchedulerFacade.h"
